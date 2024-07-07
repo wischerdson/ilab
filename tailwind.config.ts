@@ -17,6 +17,7 @@ const config: Config = {
 	theme: {
 		extend: {
 			colors: {
+				skolkovo: '#c3d600',
 				gray: {
 					950: '#0d0d0d',
 					900: '#1a1a1a',
@@ -66,9 +67,6 @@ const config: Config = {
 				'10/12': '83.333333%',
 				'11/12': '91.666667%',
 				'full': '100%'
-			},
-			maxWidth: {
-				macbook13: '1470px',
 			}
 		},
 		fontFamily: {
